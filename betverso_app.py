@@ -1,0 +1,1 @@
+(o mesmo código atualizado com proteção de chave API que foi usado antes)
